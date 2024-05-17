@@ -1,5 +1,7 @@
 package Prototype_and_Registry;
 
+// This class represents example for prototype and registry pattern
+
 public class Client {
 
     public static void main(String[] args){
