@@ -5,14 +5,16 @@ public class ICICIBankOnlinePaymentAPI {
     public ICICIBankOnlinePaymentAPI() {
     }
     public String sendMoney(){
-        return "";
+        System.out.println("Sending Money From ICICI Bank");
+        return "20000";
 
     }
     public String verifyBalance(){
-        return "";
+        System.out.println("Sending Money From ICICI Bank");
+        return "3000";
 
     }
     public String whoamI(){
-        return "";
+        return "Authenticating account Number and card Holder from ICICI Bank";
     }
 }

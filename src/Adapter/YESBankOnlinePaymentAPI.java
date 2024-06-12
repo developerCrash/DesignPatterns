@@ -5,14 +5,14 @@ public class YESBankOnlinePaymentAPI {
     public YESBankOnlinePaymentAPI() {
     }
     public String sendMoney(){
-        return "";
+        return "5000";
 
     }
     public String verifyBalance(){
-        return "";
+        return "60000 ";
 
     }
     public String whoamI(){
-        return "";
+        return "Logging in the YES Bank User Profile and Authenticating";
     }
 }
